@@ -1,5 +1,5 @@
-# Pull_MOH_covid
-
+# Find and extract all csv data from MOH page and load to database
+[MOH GIT](https://github.com/MoH-Malaysia/covid19-public)
 ## Problem Statement
 Extract covid data from MOH Daily for viz, without specifying which files. 
 
@@ -21,4 +21,5 @@ I exclude yaml file that store db credential. simply create dbconinfo.yaml file 
   database: ""
   ```
 
-  
+  ![image](https://user-images.githubusercontent.com/47713140/130356973-08922fba-2149-4ca9-a8d7-61f2d0869575.png)
+
