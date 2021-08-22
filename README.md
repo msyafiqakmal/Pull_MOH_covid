@@ -1,5 +1,5 @@
 # Find and extract all csv data from MOH page and load to database
-[MOH GIT](https://github.com/MoH-Malaysia/covid19-public)
+link to [MOH GIT](https://github.com/MoH-Malaysia/covid19-public)
 ## Problem Statement
 Extract covid data from MOH Daily for viz, without specifying which files. 
 
